@@ -1,0 +1,5 @@
+# WebViewDemoAndroidToJS
+Android和Html网页传值
+
+通过js调用原生java方法
+通过java调用html中js定义的方法
